@@ -82,3 +82,8 @@ public:
  * bool param_5 = obj.isEmpty();
  * bool param_6 = obj.isFull();
  */
+int main(){
+    MyCircularQueue *c1=new MyCircularQueue(3);
+    delete c1;
+    return 0;
+}
