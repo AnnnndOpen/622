@@ -15,7 +15,7 @@ public:
         if (k>0)
             data=vector<int> (k);
         num=k;
-        s=0;e=0;c=0;
+        s=0;e=-1;c=0;
     }
     
     /** Insert an element into the circular queue. Return true if the operation is successful. */
