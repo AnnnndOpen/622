@@ -2,7 +2,7 @@ class MyCircularQueue {
 public:
     /** Initialize your data structure here. Set the size of the queue to be k. */
     MyCircularQueue(int k) {
-        
+        hee
     }
     
     /** Insert an element into the circular queue. Return true if the operation is successful. */
